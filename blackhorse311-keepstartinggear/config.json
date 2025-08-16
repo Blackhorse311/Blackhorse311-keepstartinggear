@@ -1,0 +1,17 @@
+{
+  "restoreOn": [
+    "killed",
+    "missinginaction",
+    "mia",
+    "left"
+  ],
+  "treatRunnerAsSuccess": true,
+  "logLevel": "warn",
+  "persistSnapshotsOnDisk": true,
+  "dumpEndPayload": false,
+  "forceRestoreIfExitUnknown": true,
+  "equippedOnly": false,
+  "excludeSecureContainer": false,
+  "excludeSlots": [],
+  "restoreQuickbar": true
+}
